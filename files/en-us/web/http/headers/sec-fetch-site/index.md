@@ -1,4 +1,4 @@
----
+C:\Projects\05-Summer-Sale\index.html---
 title: Sec-Fetch-Site
 slug: Web/HTTP/Headers/Sec-Fetch-Site
 page-type: http-header
